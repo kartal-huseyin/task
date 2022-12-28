@@ -52,25 +52,6 @@
             <version>5.7.4</version>
         </dependency>
 
-
     </dependencies>
-
-
-<!--    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-failsafe-plugin</artifactId>
-                <version>3.0.0-M1</version>
-                <configuration>
-                    <testFailureIgnore>true</testFailureIgnore>
-                    <skipTests>false</skipTests>
-                    <includes>
-                        <include>**/runners/*Runner*.java</include>
-                    </includes>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>-->
 
 </project>
